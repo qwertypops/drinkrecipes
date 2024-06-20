@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const recipes = {
+        "Captain morgan spiced gold": [
         {
             name: "Captain's Delight",
             ingredients: [
