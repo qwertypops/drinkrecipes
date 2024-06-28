@@ -1016,25 +1016,25 @@ document.addEventListener('DOMContentLoaded', () => {
             // Add more Captain Morgan Spiced Gold recipes here
         ],
         "Bacardi Rum": [
-            {
-                name: "Bacardi Mojito",
-                ingredients: [
-                    "1.5 oz Bacardi Rum",
-                    "10 fresh mint leaves",
-                    "0.5 lime, cut into 4 wedges",
-                    "2 tbsp white sugar",
-                    "1 cup ice cubes",
-                    "0.5 cup soda water"
-                ],
-                instructions: [
-                    "Muddle mint leaves and 1 lime wedge in a sturdy glass.",
-                    "Add 2 more lime wedges and the sugar, and muddle again to release the lime juice.",
-                    "Fill the glass with ice cubes.",
-                    "Pour the rum over the ice, and fill the glass with soda water.",
-                    "Stir, taste, and add more sugar if desired.",
-                    "Garnish with the remaining lime wedge."
-                ]
-            },
+        {
+            name: "Bacardi Mojito",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "10 fresh mint leaves",
+                "0.5 lime, cut into 4 wedges",
+                "2 tbsp white sugar",
+                "1 cup ice cubes",
+                "0.5 cup soda water"
+            ],
+            instructions: [
+                "Muddle mint leaves and 1 lime wedge in a sturdy glass.",
+                "Add 2 more lime wedges and the sugar, and muddle again to release the lime juice.",
+                "Fill the glass with ice cubes.",
+                "Pour the rum over the ice, and fill the glass with soda water.",
+                "Stir, taste, and add more sugar if desired.",
+                "Garnish with the remaining lime wedge."
+            ]
+        },
         {
             name: "Bacardi Daiquiri",
             ingredients: [
@@ -1307,8 +1307,940 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Garnish with a lime wedge."
             ]
         },
-            // Add more Bacardi Rum recipes here
-        ],
+        {
+            name: "Bacardi Rum Sunrise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz orange juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum and orange juice.",
+                "Slowly pour grenadine over the back of a spoon so it sinks to the bottom.",
+                "Garnish with an orange slice."
+            ]
+        },
+        {
+            name: "Bacardi Raspberry Mojito",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "10 fresh mint leaves",
+                "1/2 lime, cut into 4 wedges",
+                "1/4 cup fresh raspberries",
+                "2 tbsp white sugar",
+                "1 cup ice cubes",
+                "0.5 cup soda water"
+            ],
+            instructions: [
+                "Muddle mint leaves, lime wedges, and raspberries in a sturdy glass.",
+                "Add sugar and muddle again to release the lime juice.",
+                "Fill the glass with ice cubes.",
+                "Pour the rum over the ice, and fill the glass with soda water.",
+                "Stir, taste, and add more sugar if desired.",
+                "Garnish with lime wedge and raspberries."
+            ]
+        },
+        {
+            name: "Bacardi Pineapple Coconut",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz pineapple juice",
+                "1 oz coconut cream",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add Bacardi Rum, pineapple juice, and coconut cream.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice."
+            ]
+        },
+        {
+            name: "Bacardi Colada",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz coconut cream",
+                "1 oz heavy cream",
+                "6 oz fresh pineapple juice",
+                "1/2 cup crushed ice"
+            ],
+            instructions: [
+                "Add all ingredients to a blender.",
+                "Blend until smooth.",
+                "Pour into a chilled glass and garnish with pineapple slice and maraschino cherry."
+            ]
+        },
+        {
+            name: "Bacardi Caribbean Sunset",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz orange juice",
+                "1 oz pineapple juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum, orange juice, and pineapple juice.",
+                "Slowly pour grenadine over the back of a spoon so it sinks to the bottom.",
+                "Garnish with an orange slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Pineapple Fusion",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz pineapple juice",
+                "1/2 oz lime juice",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add Bacardi Rum, pineapple juice, and lime juice.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice."
+            ]
+        },
+        {
+            name: "Bacardi Spiced Rum Punch",
+            ingredients: [
+                "1.5 oz Bacardi Spiced Rum",
+                "2 oz pineapple juice",
+                "2 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Dash of bitters",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Rum Swizzle",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1/2 oz falernum",
+                "1/2 oz lime juice",
+                "1/2 oz pineapple juice",
+                "1/2 oz orange juice",
+                "Dash of bitters",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a mint sprig."
+            ]
+        },
+        {
+            name: "Bacardi Passion Fruit Daiquiri",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz lime juice",
+                "1 oz passion fruit syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add Bacardi Rum, lime juice, and passion fruit syrup.",
+                "Shake well and strain into a chilled glass.",
+                "Garnish with a lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Peach Bellini",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz peach puree",
+                "3 oz prosecco",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum and peach puree.",
+                "Top with prosecco and stir gently.",
+                "Garnish with a peach slice."
+            ]
+        },
+        {
+            name: "Bacardi Pineapple Margarita",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz lime juice",
+                "1 oz pineapple juice",
+                "1/2 oz triple sec",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Rum Hot Toddy",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 tbsp honey",
+                "1/2 oz lemon juice",
+                "1 cup hot water",
+                "1 cinnamon stick"
+            ],
+            instructions: [
+                "Add Bacardi Rum, honey, and lemon juice to a mug.",
+                "Fill with hot water and stir until honey dissolves.",
+                "Garnish with a cinnamon stick."
+            ]
+        },
+        {
+            name: "Bacardi Black Magic",
+            ingredients: [
+                "1.5 oz Bacardi Black Rum",
+                "4 oz cola",
+                "1/2 lime",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Black Rum and cola.",
+                "Squeeze lime juice into the glass and drop the lime wedge in.",
+                "Stir gently."
+            ]
+        },
+        {
+            name: "Bacardi White Russian",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz coffee liqueur",
+                "1 oz heavy cream",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum and coffee liqueur.",
+                "Top with heavy cream and stir gently."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Splash",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "2 oz orange juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum, pineapple juice, and orange juice.",
+                "Slowly pour grenadine over the back of a spoon so it sinks to the bottom.",
+                "Garnish with an orange slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Spiced Apple",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "4 oz apple cider",
+                "1/2 oz lemon juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with an apple slice."
+            ]
+        },
+        {
+            name: "Bacardi Rum Chata",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz horchata",
+                "1/2 oz cinnamon syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a cinnamon stick."
+            ]
+        },
+        {
+            name: "Bacardi Cherry Limeade",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz cherry juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a cherry and lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Coconut Lime",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz coconut water",
+                "1 oz lime juice",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Mango Tango",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz mango juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a mango slice."
+            ]
+        },
+        {
+            name: "Bacardi Lemonade",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "4 oz lemonade",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum and lemonade.",
+                "Stir gently.",
+                "Garnish with a lemon slice."
+            ]
+        },
+        {
+            name: "Bacardi Spicy Margarita",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz lime juice",
+                "1/2 oz triple sec",
+                "1/2 oz jalapeño syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a lime wheel and jalapeño slice."
+            ]
+        },
+        {
+            name: "Bacardi Watermelon Cooler",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz watermelon juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a watermelon slice."
+            ]
+        },
+        {
+            name: "Bacardi Island Breeze",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz cranberry juice",
+                "1/2 oz lime juice",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Coconut Mojito",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "10 fresh mint leaves",
+                "1/2 lime, cut into 4 wedges",
+                "2 tbsp coconut sugar",
+                "1 cup ice cubes",
+                "0.5 cup soda water"
+            ],
+            instructions: [
+                "Muddle mint leaves and 1 lime wedge in a sturdy glass.",
+                "Add 2 more lime wedges and the coconut sugar, and muddle again to release the lime juice.",
+                "Fill the glass with ice cubes.",
+                "Pour the rum over the ice, and fill the glass with soda water.",
+                "Stir, taste, and add more sugar if desired.",
+                "Garnish with the remaining lime wedge."
+            ]
+        },
+        {
+            name: "Bacardi Pineapple Lime",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz pineapple juice",
+                "1 oz lime juice",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add Bacardi Rum, pineapple juice, and lime juice.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice."
+            ]
+        },
+        {
+            name: "Bacardi Cranberry Fizz",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz cranberry juice",
+                "1 oz soda water",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum and cranberry juice.",
+                "Top with soda water and stir gently.",
+                "Garnish with a lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Cherry Bomb",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz cherry juice",
+                "1 oz lime juice",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add Bacardi Rum, cherry juice, and lime juice.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a cherry and lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Banana Split",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz banana liqueur",
+                "1 oz chocolate liqueur",
+                "1 oz cream",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a banana slice."
+            ]
+        },
+        {
+            name: "Bacardi Coconut Water",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "4 oz coconut water",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a glass with ice.",
+                "Add Bacardi Rum and coconut water.",
+                "Stir gently.",
+                "Garnish with a lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Melon Ball",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz melon liqueur",
+                "2 oz orange juice",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add Bacardi Rum, melon liqueur, and orange juice.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with an orange slice."
+            ]
+        },
+        {
+            name: "Bacardi Sangria",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "3 oz red wine",
+                "1 oz orange juice",
+                "1 oz pineapple juice",
+                "1/2 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with an orange slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Pineapple Breeze",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz coconut water",
+                "1/2 oz lime juice",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice."
+            ]
+        },
+        {
+            name: "Bacardi Citrus Cooler",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "1 oz lemon juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a lemon and lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with an orange slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Pineapple Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Citrus Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz lemon juice",
+                "2 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a lemon and lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Splash Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Strawberry Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz strawberry juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a strawberry slice."
+            ]
+        },
+        {
+            name: "Bacardi Mango Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz mango juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a mango slice."
+            ]
+        },
+        {
+            name: "Bacardi Berry Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz mixed berry juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a berry skewer."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Paradise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz mango juice",
+                "1/2 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple and mango slice."
+            ]
+        },
+        {
+            name: "Bacardi Summer Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Breeze Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Citrus Splash Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz lemon juice",
+                "2 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a lemon and lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Strawberry Splash Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz strawberry juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a strawberry slice."
+            ]
+        },
+        {
+            name: "Bacardi Mango Splash Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz mango juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a mango slice."
+            ]
+        },
+        {
+            name: "Bacardi Berry Splash Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz mixed berry juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a berry skewer."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Splash Paradise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz mango juice",
+                "1/2 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple and mango slice."
+            ]
+        },
+        {
+            name: "Bacardi Summer Splash Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Breeze Paradise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Citrus Splash Paradise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz lemon juice",
+                "2 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a lemon and lime wheel."
+            ]
+        },
+        {
+            name: "Bacardi Strawberry Splash Paradise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz strawberry juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a strawberry slice."
+            ]
+        },
+        {
+            name: "Bacardi Mango Splash Paradise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz mango juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a mango slice."
+            ]
+        },
+        {
+            name: "Bacardi Berry Splash Paradise",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz mixed berry juice",
+                "1 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a berry skewer."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Splash Paradise Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz mango juice",
+                "1/2 oz lime juice",
+                "1/2 oz simple syrup",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple and mango slice."
+            ]
+        },
+        {
+            name: "Bacardi Summer Splash Paradise Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        },
+        {
+            name: "Bacardi Tropical Breeze Splash Punch",
+            ingredients: [
+                "1.5 oz Bacardi Rum",
+                "2 oz pineapple juice",
+                "1 oz orange juice",
+                "1/2 oz lime juice",
+                "1/2 oz grenadine",
+                "Ice"
+            ],
+            instructions: [
+                "Fill a shaker with ice.",
+                "Add all ingredients.",
+                "Shake well and strain into a glass filled with ice.",
+                "Garnish with a pineapple slice and cherry."
+            ]
+        }
+    ],
         // Add more alcohol types and their recipes here
     };
 
