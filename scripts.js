@@ -2909,7 +2909,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "Garnish with a pineapple slice."
         ]
     }
-];
+],
         // Add more alcohol types and their recipes here
     };
 
