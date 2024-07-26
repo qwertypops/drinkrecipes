@@ -1937,6 +1937,979 @@ document.addEventListener('DOMContentLoaded', () => {
         ]
     }
     ],
+        "Jägermeister" :[
+    {
+        name: "Jägermeister Old Fashioned",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 sugar cube",
+            "2 dashes Angostura bitters",
+            "Orange twist",
+            "Ice"
+        ],
+        instructions: [
+            "Muddle the sugar cube and bitters in a glass.",
+            "Add Jägermeister and ice.",
+            "Stir until well chilled.",
+            "Garnish with an orange twist."
+        ]
+    },
+    {
+        name: "Jägermeister Mule",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz ginger beer",
+            "1/2 oz lime juice",
+            "Ice",
+            "Lime wheel"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and lime juice.",
+            "Top with ginger beer and stir gently.",
+            "Garnish with a lime wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Sour",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz lemon juice",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Lemon wheel"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, lemon juice, and simple syrup.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a lemon wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Espresso Martini",
+        ingredients: [
+            "1.5 oz Jägermeister",
+            "1 oz espresso",
+            "1/2 oz coffee liqueur",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Coffee beans"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, espresso, coffee liqueur, and simple syrup.",
+            "Shake well and strain into a chilled glass.",
+            "Garnish with coffee beans."
+        ]
+    },
+    {
+        name: "Jägermeister Negroni",
+        ingredients: [
+            "1 oz Jägermeister",
+            "1 oz gin",
+            "1 oz sweet vermouth",
+            "Ice",
+            "Orange twist"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, gin, and sweet vermouth.",
+            "Stir until well chilled.",
+            "Garnish with an orange twist."
+        ]
+    },
+    {
+        name: "Jägermeister Manhattan",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz sweet vermouth",
+            "2 dashes Angostura bitters",
+            "Ice",
+            "Cherry"
+        ],
+        instructions: [
+            "Fill a mixing glass with ice.",
+            "Add Jägermeister, sweet vermouth, and bitters.",
+            "Stir until well chilled.",
+            "Strain into a chilled glass.",
+            "Garnish with a cherry."
+        ]
+    },
+    {
+        name: "Jägermeister Mojito",
+        ingredients: [
+            "2 oz Jägermeister",
+            "10 fresh mint leaves",
+            "1/2 lime, cut into wedges",
+            "2 tbsp simple syrup",
+            "Ice",
+            "Soda water",
+            "Mint sprig"
+        ],
+        instructions: [
+            "Muddle mint leaves and lime wedges in a glass.",
+            "Add Jägermeister and simple syrup.",
+            "Fill the glass with ice and top with soda water.",
+            "Stir gently and garnish with a mint sprig."
+        ]
+    },
+    {
+        name: "Jägermeister Piña Colada",
+        ingredients: [
+            "1.5 oz Jägermeister",
+            "2 oz pineapple juice",
+            "1 oz coconut cream",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a blender with ice.",
+            "Add Jägermeister, pineapple juice, and coconut cream.",
+            "Blend until smooth and pour into a glass.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Margarita",
+        ingredients: [
+            "1.5 oz Jägermeister",
+            "1 oz lime juice",
+            "1/2 oz triple sec",
+            "Ice",
+            "Salt rim",
+            "Lime wheel"
+        ],
+        instructions: [
+            "Rub the rim of a glass with a lime wedge and dip in salt.",
+            "Fill a shaker with ice.",
+            "Add Jägermeister, lime juice, and triple sec.",
+            "Shake well and strain into the glass filled with ice.",
+            "Garnish with a lime wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Paloma",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz grapefruit juice",
+            "1/2 oz lime juice",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Soda water",
+            "Grapefruit wedge"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, grapefruit juice, lime juice, and simple syrup.",
+            "Top with soda water and stir gently.",
+            "Garnish with a grapefruit wedge."
+        ]
+    },
+    {
+        name: "Jägermeister Bloody Mary",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz tomato juice",
+            "1/2 oz lemon juice",
+            "2 dashes hot sauce",
+            "1 dash Worcestershire sauce",
+            "Salt and pepper",
+            "Ice",
+            "Celery stick"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, tomato juice, lemon juice, hot sauce, Worcestershire sauce, salt, and pepper.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a celery stick."
+        ]
+    },
+    {
+        name: "Jägermeister Mule",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz ginger beer",
+            "1/2 oz lime juice",
+            "Ice",
+            "Lime wheel"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and lime juice.",
+            "Top with ginger beer and stir gently.",
+            "Garnish with a lime wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Honey Lemonade",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz lemonade",
+            "1/2 oz honey syrup",
+            "Ice",
+            "Lemon wheel"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, lemonade, and honey syrup.",
+            "Stir gently.",
+            "Garnish with a lemon wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Spiced Cider",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz apple cider",
+            "1/2 oz lemon juice",
+            "Cinnamon stick",
+            "Ice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, apple cider, and lemon juice.",
+            "Stir gently.",
+            "Garnish with a cinnamon stick."
+        ]
+    },
+    {
+        name: "Jägermeister Ginger Smash",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz ginger syrup",
+            "1 oz lemon juice",
+            "Ice",
+            "Lemon wheel"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, ginger syrup, and lemon juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a lemon wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Apple Martini",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz apple liqueur",
+            "1/2 oz lemon juice",
+            "Ice",
+            "Apple slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, apple liqueur, and lemon juice.",
+            "Shake well and strain into a chilled glass.",
+            "Garnish with an apple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Berry Bramble",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz blackberry liqueur",
+            "1 oz lemon juice",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Blackberries"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, blackberry liqueur, lemon juice, and simple syrup.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with blackberries."
+        ]
+    },
+    {
+        name: "Jägermeister Coconut Cooler",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz coconut water",
+            "1 oz pineapple juice",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and pineapple juice.",
+            "Top with coconut water and stir gently.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Cranberry Fizz",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz cranberry juice",
+            "1 oz soda water",
+            "Ice",
+            "Cranberries"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and cranberry juice.",
+            "Top with soda water and stir gently.",
+            "Garnish with cranberries."
+        ]
+    },
+    {
+        name: "Jägermeister Pomegranate Smash",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz pomegranate juice",
+            "1/2 oz lemon juice",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Pomegranate seeds"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, pomegranate juice, lemon juice, and simple syrup.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with pomegranate seeds."
+        ]
+    },
+    {
+        name: "Jägermeister Blueberry Lemonade",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz lemonade",
+            "1 oz blueberry syrup",
+            "Ice",
+            "Blueberries"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, lemonade, and blueberry syrup.",
+            "Stir gently.",
+            "Garnish with blueberries."
+        ]
+    },
+    {
+        name: "Jägermeister Watermelon Cooler",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz watermelon juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Watermelon slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, watermelon juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a watermelon slice."
+        ]
+    },
+    {
+        name: "Jägermeister Peach Tea",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz peach iced tea",
+            "Ice",
+            "Peach slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and peach iced tea.",
+            "Stir gently.",
+            "Garnish with a peach slice."
+        ]
+    },
+    {
+        name: "Jägermeister Strawberry Lemonade",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz lemonade",
+            "1 oz strawberry syrup",
+            "Ice",
+            "Strawberries"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, lemonade, and strawberry syrup.",
+            "Stir gently.",
+            "Garnish with strawberries."
+        ]
+    },
+    {
+        name: "Jägermeister Tropical Punch",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz pineapple juice",
+            "1 oz orange juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, pineapple juice, orange juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Kiwi Cooler",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz kiwi juice",
+            "1 oz lime juice",
+            "Ice",
+            "Kiwi slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, kiwi juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a kiwi slice."
+        ]
+    },
+    {
+        name: "Jägermeister Cherry Cola",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz cola",
+            "1/2 oz cherry syrup",
+            "Ice",
+            "Cherry"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and cherry syrup.",
+            "Top with cola and stir gently.",
+            "Garnish with a cherry."
+        ]
+    },
+    {
+        name: "Jägermeister Spicy Margarita",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz lime juice",
+            "1/2 oz triple sec",
+            "1/2 oz jalapeño syrup",
+            "Ice",
+            "Salt rim",
+            "Lime wheel"
+        ],
+        instructions: [
+            "Rub the rim of a glass with a lime wedge and dip in salt.",
+            "Fill a shaker with ice.",
+            "Add Jägermeister, lime juice, triple sec, and jalapeño syrup.",
+            "Shake well and strain into the glass filled with ice.",
+            "Garnish with a lime wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Tropical Breeze",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz pineapple juice",
+            "1 oz passion fruit juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, pineapple juice, passion fruit juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Honey Ginger",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz honey syrup",
+            "1 oz ginger syrup",
+            "1/2 oz lemon juice",
+            "Ice",
+            "Lemon wheel"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, honey syrup, ginger syrup, and lemon juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a lemon wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Lemonade",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz lemonade",
+            "Ice",
+            "Lemon wheel"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and lemonade.",
+            "Stir gently.",
+            "Garnish with a lemon wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Green Tea",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz green tea",
+            "1/2 oz honey syrup",
+            "Ice",
+            "Mint sprig"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, green tea, and honey syrup.",
+            "Stir gently.",
+            "Garnish with a mint sprig."
+        ]
+    },
+    {
+        name: "Jägermeister Ginger Ale",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz ginger ale",
+            "Ice",
+            "Lime wheel"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and ginger ale.",
+            "Stir gently.",
+            "Garnish with a lime wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Apple Cider",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz apple cider",
+            "1/2 oz lemon juice",
+            "Cinnamon stick",
+            "Ice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, apple cider, and lemon juice.",
+            "Stir gently.",
+            "Garnish with a cinnamon stick."
+        ]
+    },
+    {
+        name: "Jägermeister Cherry Cola",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz cola",
+            "1/2 oz cherry syrup",
+            "Ice",
+            "Cherry"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and cherry syrup.",
+            "Top with cola and stir gently.",
+            "Garnish with a cherry."
+        ]
+    },
+    {
+        name: "Jägermeister Cranberry Spritz",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz cranberry juice",
+            "1 oz soda water",
+            "Ice",
+            "Cranberries"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and cranberry juice.",
+            "Top with soda water and stir gently.",
+            "Garnish with cranberries."
+        ]
+    },
+    {
+        name: "Jägermeister Lemon Fizz",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz lemonade",
+            "1 oz soda water",
+            "Ice",
+            "Lemon wheel"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and lemonade.",
+            "Top with soda water and stir gently.",
+            "Garnish with a lemon wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Grapefruit Soda",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz grapefruit juice",
+            "1 oz soda water",
+            "Ice",
+            "Grapefruit wedge"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and grapefruit juice.",
+            "Top with soda water and stir gently.",
+            "Garnish with a grapefruit wedge."
+        ]
+    },
+    {
+        name: "Jägermeister Mango Cooler",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz mango juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Mango slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, mango juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a mango slice."
+        ]
+    },
+    {
+        name: "Jägermeister Pineapple Fizz",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz pineapple juice",
+            "1 oz soda water",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and pineapple juice.",
+            "Top with soda water and stir gently.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Citrus Twist",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz lemon juice",
+            "1 oz orange juice",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Orange wheel"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, lemon juice, orange juice, and simple syrup.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with an orange wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Blackberry Bramble",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz blackberry liqueur",
+            "1 oz lemon juice",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Blackberries"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, blackberry liqueur, lemon juice, and simple syrup.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with blackberries."
+        ]
+    },
+    {
+        name: "Jägermeister Peach Bellini",
+        ingredients: [
+            "1.5 oz Jägermeister",
+            "1 oz peach puree",
+            "3 oz sparkling wine",
+            "Ice",
+            "Peach slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and peach puree.",
+            "Top with sparkling wine and stir gently.",
+            "Garnish with a peach slice."
+        ]
+    },
+    {
+        name: "Jägermeister Mint Julep",
+        ingredients: [
+            "2 oz Jägermeister",
+            "10 fresh mint leaves",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Mint sprig"
+        ],
+        instructions: [
+            "Muddle mint leaves and simple syrup in a glass.",
+            "Add Jägermeister and ice.",
+            "Stir gently.",
+            "Garnish with a mint sprig."
+        ]
+    },
+    {
+        name: "Jägermeister Tropical Storm",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz pineapple juice",
+            "1 oz passion fruit juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, pineapple juice, passion fruit juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Spicy Mule",
+        ingredients: [
+            "2 oz Jägermeister",
+            "4 oz ginger beer",
+            "1/2 oz lime juice",
+            "1/2 oz jalapeño syrup",
+            "Ice",
+            "Lime wheel"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, lime juice, and jalapeño syrup.",
+            "Top with ginger beer and stir gently.",
+            "Garnish with a lime wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Berry Smash",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz raspberry syrup",
+            "1 oz lemon juice",
+            "Ice",
+            "Raspberries"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, raspberry syrup, and lemon juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with raspberries."
+        ]
+    },
+    {
+        name: "Jägermeister Coconut Rum Punch",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz coconut rum",
+            "2 oz pineapple juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, coconut rum, pineapple juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Kiwi Smash",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz kiwi syrup",
+            "1 oz lime juice",
+            "Ice",
+            "Kiwi slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, kiwi syrup, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a kiwi slice."
+        ]
+    },
+    {
+        name: "Jägermeister Tropical Sunrise",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz orange juice",
+            "1 oz pineapple juice",
+            "1/2 oz grenadine",
+            "Ice",
+            "Orange slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister, orange juice, and pineapple juice.",
+            "Slowly pour grenadine over the top.",
+            "Garnish with an orange slice."
+        ]
+    },
+    {
+        name: "Jägermeister Spiced Honey",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz honey syrup",
+            "1/2 oz lemon juice",
+            "1/2 oz cinnamon syrup",
+            "Ice",
+            "Lemon wheel"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, honey syrup, lemon juice, and cinnamon syrup.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a lemon wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Mango Fizz",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz mango juice",
+            "1 oz soda water",
+            "Ice",
+            "Mango slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and mango juice.",
+            "Top with soda water and stir gently.",
+            "Garnish with a mango slice."
+        ]
+    },
+    {
+        name: "Jägermeister Tropical Bliss",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz passion fruit juice",
+            "1 oz coconut water",
+            "1/2 oz lime juice",
+            "Ice",
+            "Passion fruit slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, passion fruit juice, coconut water, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a passion fruit slice."
+        ]
+    },
+    {
+        name: "Jägermeister Pineapple Breeze",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz pineapple juice",
+            "1 oz soda water",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and pineapple juice.",
+            "Top with soda water and stir gently.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Blueberry Smash",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz blueberry syrup",
+            "1 oz lemon juice",
+            "Ice",
+            "Blueberries"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, blueberry syrup, and lemon juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with blueberries."
+        ]
+    },
+    {
+        name: "Jägermeister Citrus Breeze",
+        ingredients: [
+            "2 oz Jägermeister",
+            "1 oz lemon juice",
+            "1 oz orange juice",
+            "1/2 oz simple syrup",
+            "Ice",
+            "Orange wheel"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, lemon juice, orange juice, and simple syrup.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with an orange wheel."
+        ]
+    },
+    {
+        name: "Jägermeister Tropical Cooler",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz pineapple juice",
+            "1 oz orange juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, pineapple juice, orange juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a pineapple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Green Apple Fizz",
+        ingredients: [
+            "2 oz Jägermeister",
+            "3 oz green apple juice",
+            "1 oz soda water",
+            "Ice",
+            "Apple slice"
+        ],
+        instructions: [
+            "Fill a glass with ice.",
+            "Add Jägermeister and green apple juice.",
+            "Top with soda water and stir gently.",
+            "Garnish with an apple slice."
+        ]
+    },
+    {
+        name: "Jägermeister Tropical Twist",
+        ingredients: [
+            "2 oz Jägermeister",
+            "2 oz pineapple juice",
+            "1 oz passion fruit juice",
+            "1/2 oz lime juice",
+            "Ice",
+            "Pineapple slice"
+        ],
+        instructions: [
+            "Fill a shaker with ice.",
+            "Add Jägermeister, pineapple juice, passion fruit juice, and lime juice.",
+            "Shake well and strain into a glass filled with ice.",
+            "Garnish with a pineapple slice."
+        ]
+    }
+];
         // Add more alcohol types and their recipes here
     };
 
